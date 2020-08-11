@@ -1,0 +1,18 @@
+temp= 2
+0
+temp= 3
+1
+temp= 4
+temp= 2
+1
+temp= 2019
+temp= 1009
+temp= 504
+temp= 252
+temp= 126
+temp= 63
+temp= 31
+temp= 15
+temp= 7
+temp= 3
+1
